@@ -1,0 +1,105 @@
+{
+    "countries":[
+        {
+            "countryName": "Bahrain",
+            "countryFlagUrl": "Bahrain",
+            "touristPlaces":
+            [
+                {
+                    "placeName": "Manama",
+                    "placeUrl": "Manama",
+                },
+                {
+                    "placeName": "Arad Fort",
+                    "placeUrl": "Arad Fort",
+                },
+                {
+                    "placeName": "Reef Island",
+                    "placeUrl": "Reef Island",
+                },
+                {
+                    "placeName": "Marassi Beach",
+                    "placeUrl": "Marassi Beach",
+                },
+                {
+                    "placeName": "Seef",
+                    "placeUrl": "Seef",
+                },
+                {
+                    "placeName": "Zallaq",
+                    "placeUrl": "Zallaq",
+                },
+                {
+                    "placeName": "Isa Town",
+                    "placeUrl": "Isa Town",
+                },
+                {
+                    "placeName": "Budaiya",
+                    "placeUrl": "Budaiya",
+                },
+                {
+                    "placeName": "Hawar Island",
+                    "placeUrl": "Hawar Island",
+                }
+            ]
+        },
+        {
+            "countryName": "India",
+            "countryFlagUrl": "India",
+            "touristPlaces":
+            [
+                {
+                    "placeName": "Taj Mahal",
+                    "placeUrl": "TajMahal",
+                },
+                {
+                    "placeName": "Goa",
+                    "placeUrl": "Goa",
+                },
+                {
+                    "placeName": "Udaipur",
+                    "placeUrl": "Udaipur",
+                },
+                {
+                    "placeName": "Jodhpur",
+                    "placeUrl": "Jodhpur",
+                },
+                {
+                    "placeName": "Lakshadeep",
+                    "placeUrl": "Lakshadeep",
+                },
+                {
+                    "placeName": "Ooty",
+                    "placeUrl": "Ooty",
+                },
+                {
+                    "placeName": "Shimla",
+                    "placeUrl": "Shimla",
+                },
+                {
+                    "placeName": "Leh",
+                    "placeUrl": "Leh",
+                },
+            ]
+        },
+        {
+            "countryName": "USA",
+            "countryFlagUrl": "USA",
+            "touristPlaces":
+            [
+                {
+                    "placeName": "American Museum of Natural History",
+                    "placeUrl": "American Museum of Natural History",
+                },
+                {
+                    "placeName": "Lincoln Memorial",
+                    "placeUrl": "Lincoln Memorial",
+                },
+                {
+                    "placeName": "Las Vegas",
+                    "placeUrl": "Las Vegas",
+                }
+            ]
+        }
+    ]
+}
